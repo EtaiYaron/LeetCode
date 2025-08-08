@@ -10,3 +10,6 @@
 [submodule "LeetCode-MergeTwoSortedArrays"]
 	path = LeetCode-MergeTwoSortedArrays
 	url = https://github.com/EtaiYaron/LeetCode-MergeTwoSortedArrays
+[submodule "LeetCode-EasyStairsMemoizationProblem"]
+	path = LeetCode-EasyStairsMemoizationProblem
+	url = https://github.com/EtaiYaron/LeetCode-EasyStairsMemoizationProblem
