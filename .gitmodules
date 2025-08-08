@@ -1,0 +1,12 @@
+[submodule "LeetCode-MaxPointsOnALine"]
+	path = LeetCode-MaxPointsOnALine
+	url = https://github.com/EtaiYaron/LeetCode-MaxPointsOnALine
+[submodule "LeetCode-BinaryTreeMaxPathSum"]
+	path = LeetCode-BinaryTreeMaxPathSum
+	url = https://github.com/EtaiYaron/LeetCode-BinaryTreeMaxPathSum
+[submodule "LeetCode-AddTwoNumbers"]
+	path = LeetCode-AddTwoNumbers
+	url = https://github.com/EtaiYaron/LeetCode-AddTwoNumbers
+[submodule "LeetCode-MergeTwoSortedArrays"]
+	path = LeetCode-MergeTwoSortedArrays
+	url = https://github.com/EtaiYaron/LeetCode-MergeTwoSortedArrays
