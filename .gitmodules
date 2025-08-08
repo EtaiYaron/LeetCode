@@ -16,3 +16,6 @@
 [submodule "LeetCode-CountPrimes"]
 	path = LeetCode-CountPrimes
 	url = https://github.com/EtaiYaron/LeetCode-CountPrimes
+[submodule "LeetCode-BinaryTreeLevelOrderTraversal"]
+	path = LeetCode-BinaryTreeLevelOrderTraversal
+	url = https://github.com/EtaiYaron/LeetCode-BinaryTreeLevelOrderTraversal
