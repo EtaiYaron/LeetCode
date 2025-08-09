@@ -22,3 +22,6 @@
 [submodule "LeetCode-IsSymetricTree"]
 	path = LeetCode-IsSymetricTree
 	url = https://github.com/EtaiYaron/LeetCode-IsSymetricTree
+[submodule "LeetCode-Atoi"]
+	path = LeetCode-Atoi
+	url = https://github.com/EtaiYaron/LeetCode-Atoi
