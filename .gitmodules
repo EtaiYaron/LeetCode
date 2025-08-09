@@ -19,3 +19,6 @@
 [submodule "LeetCode-BinaryTreeLevelOrderTraversal"]
 	path = LeetCode-BinaryTreeLevelOrderTraversal
 	url = https://github.com/EtaiYaron/LeetCode-BinaryTreeLevelOrderTraversal
+[submodule "LeetCode-IsSymetricTree"]
+	path = LeetCode-IsSymetricTree
+	url = https://github.com/EtaiYaron/LeetCode-IsSymetricTree
