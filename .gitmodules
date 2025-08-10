@@ -25,3 +25,6 @@
 [submodule "LeetCode-Atoi"]
 	path = LeetCode-Atoi
 	url = https://github.com/EtaiYaron/LeetCode-Atoi
+[submodule "LeetCode-IsPalindrome"]
+	path = LeetCode-IsPalindrome
+	url = https://github.com/EtaiYaron/LeetCode-IsPalindrome
