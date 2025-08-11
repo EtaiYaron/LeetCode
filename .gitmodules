@@ -28,3 +28,6 @@
 [submodule "LeetCode-IsPalindrome"]
 	path = LeetCode-IsPalindrome
 	url = https://github.com/EtaiYaron/LeetCode-IsPalindrome
+[submodule "LeetCode-Robber"]
+	path = LeetCode-Robber
+	url = https://github.com/EtaiYaron/LeetCode-Robber
