@@ -31,3 +31,6 @@
 [submodule "LeetCode-Robber"]
 	path = LeetCode-Robber
 	url = https://github.com/EtaiYaron/LeetCode-Robber
+[submodule "LeetCode-ReverseInt"]
+	path = LeetCode-ReverseInt
+	url = https://github.com/EtaiYaron/LeetCode-ReverseInt.git
